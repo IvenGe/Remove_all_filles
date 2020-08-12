@@ -1,2 +1,4 @@
 # Remove_all_filles
-Warning it may damage your OS
+It removes all files you have access to
+Warning it may damage your OS 
+
